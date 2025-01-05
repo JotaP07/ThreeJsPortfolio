@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,4 +9,4 @@ Currently, two official plugins are available:
 =======
 # ThreeJsPortfolio
 just a simple portfolio using React, ThreeJs, GSAP and Tailwind CSS
->>>>>>> 2039dc90ec5633db7abc9a34f7e56f5962f75431
+
