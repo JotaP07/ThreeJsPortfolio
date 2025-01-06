@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="GifThreeJSPortfolio.gif" alt="PortFolioGif" />
+</div>
+
 # React + Vite Portfolio
 
 This template offers a streamlined setup for developing a React application using Vite, featuring Hot Module Replacement (HMR) and basic ESLint rules.
