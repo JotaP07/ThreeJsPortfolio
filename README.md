@@ -1,9 +1,7 @@
 <div align="center">
-  <video autoplay loop muted playsinline>
-    <source src="GifThreeJSPortfolio.gif" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="GifThreeJSPortfolio.gif" alt="PortFolioGif" />
 </div>
+
 
 
 # React + Vite Portfolio
