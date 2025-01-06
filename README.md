@@ -122,3 +122,6 @@ export default defineConfig({
 ## Resources
 
 Some images and links for the 3D Avatar Generation and 3D Desktop Computer were sourced from [Adrian Hajdin](https://github.com/adrianhajdin).
+
+# Important !
+- in some Browsers e.g OperaGxthe the site doesn't work :(
