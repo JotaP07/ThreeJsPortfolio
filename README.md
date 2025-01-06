@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="GifThreeJSPortfolio.gif" alt="PortFolioGif" />
+</div>
+
+
+
 # React + Vite Portfolio
 
 This template offers a streamlined setup for developing a React application using Vite, featuring Hot Module Replacement (HMR) and basic ESLint rules.
@@ -116,3 +122,6 @@ export default defineConfig({
 ## Resources
 
 Some images and links for the 3D Avatar Generation and 3D Desktop Computer were sourced from [Adrian Hajdin](https://github.com/adrianhajdin).
+
+# Important !
+- in some Browsers e.g OperaGxthe the site doesn't work :(
